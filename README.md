@@ -28,7 +28,7 @@ We apply a fuzzy inference layer and rule-based ANFIS model to learn from key ma
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/anfis-stock-price-prediction.git
+git clone https://github.com/MohammadTvkl/Training-an-ANFIS-Using-Evolutionary-Algorithms.git
 cd anfis-stock-price-prediction
 pip install -r requirements.txt
 ```
@@ -39,14 +39,6 @@ Run the notebook:
 
 ```bash
 jupyter notebook notebooks/ANFIS_stock_prediction.ipynb
-```
-
-(OR)
-
-Convert your logic into a script in `src/train.py` and run:
-
-```bash
-python src/train.py
 ```
 
 ## 📊 Output
